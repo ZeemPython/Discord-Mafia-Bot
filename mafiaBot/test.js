@@ -148,5 +148,5 @@ mafiaBot.on('message', message => {
 
 	}); // END OF MESSAGE HANDLER
 
-mafiaBot.login('MjUwNTQ4ODYwNTIxMjgzNTg0.CxWdWA.bk7tNfGJ-SQcqMg275I2H8GJh3w');
+mafiaBot.login('bot.token');
 
