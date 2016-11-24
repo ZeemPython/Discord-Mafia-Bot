@@ -173,4 +173,4 @@ mafiaBot.on('message', message => {
 
 }); // END OF MESSAGE HANDLER
 
-mafiaBot.login('bot.token');
+mafiaBot.login('MjUwNTQ4ODYwNTIxMjgzNTg0.CxWdWA.bk7tNfGJ-SQcqMg275I2H8GJh3w');
